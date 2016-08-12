@@ -1,0 +1,104 @@
+Knicks
+New York
+James Dolan
+123.38
+1946
+2
+Patrick Ewing
+29
+Celtics
+Boston
+Wyc Grousbeck
+70.79
+1946
+17
+Larry Bird
+14
+Bulls
+Chicago
+Jerry Reinsdorf
+82.33 
+1966
+6
+Michael Jordan
+6
+Spurs
+San Antonio
+Peter Holt
+58.65 
+1967
+5
+Tim Duncan
+7
+Lakers
+Los Angeles
+Jerry Buss
+102.25 
+1947
+16
+Magic Johnson
+27
+Thunder
+Oklahoma City
+Professional Basketball Club LLC
+51.35 
+1967
+1
+Kevin Durant
+17
+Clippers
+Los Angeles
+Steve Ballmar
+78.3
+1948
+0
+Chris Paul
+8
+Timberwolves
+Minnesota
+Glen Taylor
+37.23
+1989
+0
+Kevin Garnett
+30
+Grizzlies
+Memphis
+Robert Pera
+37.45
+1995
+0
+Marc Gasol
+4
+Suns
+Pheonix
+Robert Sarver
+56.1
+1968
+0
+Charles Barkley
+17
+Pacers
+Indiana
+Herbert Simon
+32.59
+1967
+1
+Reggie Miller
+27
+76ers
+Philadelphia
+Joshua Harris
+25.8
+1946
+3
+Allen Iverson
+30
+Rapters
+Toronto
+Masai Uriji
+56.57
+1995
+0
+Vince Carter
+4
