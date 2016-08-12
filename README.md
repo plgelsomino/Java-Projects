@@ -1,1 +1,1 @@
-# cuddly-couscous
+This is a NBA desktop application to keep track of NBA teams and data.  Program reads and writes information from a text file.  A user can serach for an NBA team and view its data.  If a team has not been entered in the NBA application, a user can add it to the data file.  The program was written in java code and used encapsulation, OOP concepts, array lists, and fle I/O processing. 
